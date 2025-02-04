@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?><testrun name="FirstTest (1)" project="SeleniumLearning" tests="2" started="2" failures="0" errors="0" ignored="0">
+  <testsuite name="SeleniumBasicLearning.FirstTest" time="29.392" displayname="FirstTest" uniqueid="[engine:junit-jupiter]/[class:SeleniumBasicLearning.FirstTest]">
+    <testcase name="openEdge" classname="SeleniumBasicLearning.FirstTest" time="18.553" displayname="openEdge()" uniqueid="[engine:junit-jupiter]/[class:SeleniumBasicLearning.FirstTest]/[method:openEdge()]"/>
+    <testcase name="openChrome" classname="SeleniumBasicLearning.FirstTest" time="10.83" displayname="openChrome()" uniqueid="[engine:junit-jupiter]/[class:SeleniumBasicLearning.FirstTest]/[method:openChrome()]"/>
+  </testsuite>
+</testrun>

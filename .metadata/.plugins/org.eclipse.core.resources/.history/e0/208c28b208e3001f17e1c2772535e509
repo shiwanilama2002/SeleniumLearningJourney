@@ -1,0 +1,9 @@
+package SeleniumBasicLearning;
+
+public class FirstTest {
+	public static void main(String[] args) {
+	//setting of webdriver
+		WebDriverManager.chromedriver().setup();
+		WebDriver driver = new ChromeDriver();
+	}
+}
