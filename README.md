@@ -9,13 +9,13 @@
 - Searched for "Selenium (software)" on Wikipedia.
 - Printed the search result heading.
 
-  📅 Day 3: On this day, I added Selenium test cases for the Google homepage validation. The test cases include:
+  ## 📅 Day 3: On this day, I added Selenium test cases for the Google homepage validation. The test cases include:
 
 Verify Browser Launch: Ensures the Chrome browser opens successfully.
 Search Google: Verifies that the Google homepage loads properly.
 Validate Page Title: Confirms that the title of the Google homepage is "Google".
 
-Day 3: On this day,Login Test Automation - Selenium with TestNG
+## Day 4: On this day,Login Test Automation - Selenium with TestNG
 In this project, I have implemented automated tests for login functionality on the PracticeTestAutomation website using Selenium WebDriver and TestNG. The script performs the following actions:
 
 Features Tested:
