@@ -8,6 +8,7 @@
 - Used ID, Name, Class, XPath.
 - Searched for "Selenium (software)" on Wikipedia.
 - Printed the search result heading.
+- In Selenium WebDriver, locators are essential for identifying and interacting with web elements on a page. They are the bridge between your automation code and the HTML elements on the web page. Selenium provides several types of locators, and knowing when to use each of them is critical for writing efficient and effective automation scripts.
 
   ## 📅 Day 3: On this day, I added Selenium test cases for the Google homepage validation. The test cases include:
 
