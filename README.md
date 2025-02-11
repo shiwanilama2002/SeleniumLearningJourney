@@ -1,4 +1,4 @@
-# Selenium Learning Journey 🚀
+um# Selenium Learning Journey 🚀
 
 ## 📅 Day 1: Browser Automation
 - Open Google in Chrome & Edge using Selenium.
@@ -32,3 +32,4 @@ Invalid Login Credentials:
 
 The loginInValidCredentials() test simulates a failed login using invalid credentials (username: students, password: Password1234).
 After submitting the login form, it checks whether the login failed by verifying the current URL.
+learning to register the account in open cart and validated its pagetitle
